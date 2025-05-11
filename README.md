@@ -1,6 +1,6 @@
 # 👋🏿 Hi, I’m Temwani Msiska
 
-I’m a full-stack software developer with a frontend-first mindset, passionate about crafting clean, scalable, and user-focused applications. I work with modern tools like **React**, **Next.js**, **TypeScript**, and **Strapi** to build fast, responsive, and elegant digital products.
+### I’m a full-stack software developer with a frontend-first mindset, passionate about crafting clean, scalable, and user-focused applications. I work with modern tools like **React**, **Next.js**, **TypeScript**, and **Strapi** to build fast, responsive, and elegant digital products.
 ---
 
 ### 🧠 What I Do
@@ -27,7 +27,6 @@ Backend    → Node.js, Express, Strapi, Django REST
 Database   → PostgreSQL, SQLite  
 Tools      → GitHub, Vercel, Railway, Figma, Framer Motion
 ```
-
 ---
 
 ### 📫 Connect With Me
