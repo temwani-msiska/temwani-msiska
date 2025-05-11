@@ -1,11 +1,6 @@
 # 👋🏿 Hi, I’m Temwani Msiska
 
 I’m a full-stack software developer with a frontend-first mindset, passionate about crafting clean, scalable, and user-focused applications. I work with modern tools like **React**, **Next.js**, **TypeScript**, and **Strapi** to build fast, responsive, and elegant digital products.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temwani-msiska&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🧠 What I Do
@@ -13,7 +8,6 @@ I’m a full-stack software developer with a frontend-first mindset, passionate 
 - 🔹 Build full-stack web apps with **Next.js**, **Node.js**, and **PostgreSQL**
 - 🔹 Design responsive UIs with **Tailwind CSS** and **Framer Motion**
 - 🔹 Integrate scalable backends with **Strapi** or **Django REST**
-- 🔹 Deploy fast and securely using **Vercel**, **Railway**, and **CI/CD workflows**
 
 ---
 
