@@ -15,7 +15,7 @@
 
 - ⚖️ [**ZamLex**](https://zamlex.com) – A modern legal-tech platform built to simplify legal services for Zambian entrepreneurs.
 - 🍜 [**Temzie Bites**](https://temziebites.com) – A visual-first platform celebrating Zambia’s culinary heritage and creative storytelling.
-- 🔧 [**Smart Mechanics**](https://smart-mechanics.vercel.app/) – A responsive service-based site for a mechanical solutions brand.
+- 🔧 [**Smart Mechanics**](https://www.smartmechanics.co.zm/) – A responsive service-based site for a mechanical solutions brand.
 
 ---
 
